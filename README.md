@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/1134945536672288781/1274748782252134453/CARROTISTEKANKA_1.png?ex=66c361d1&is=66c21051&hm=8601c1fb1cb04cf2adefcefc9dcea865928d950dce9af2fe48ae3e9f423ba3aa&=&format=webp&quality=lossless&width=1440&height=360)](https://scurottbot.xyz)
+[![MasterHead](https://media.discordapp.net/attachments/1134945536672288781/1275954767566475274/Adsz_tasarm_52.png?ex=66c7c4fa&is=66c6737a&hm=f7d164ea9ee205ac5dbb3db79cf15e9f545e12dca8268b7c4eb9fd322b872dd6&=&format=webp&quality=lossless&width=937&height=375)](https://scurottbot.xyz)
 <h1 align="center">Selam, Ben Carrot! ^^ 🥕</h1>
 <h3 align="center">Kendini sürekli geliştirmeye adamış bir Türk genciyim.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
