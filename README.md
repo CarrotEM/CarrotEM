@@ -1,4 +1,5 @@
-[[MasterHead](https://media.discordapp.net/attachments/1134945536672288781/1275954767566475274/Adsz_tasarm_52.png?ex=66c7c4fa&is=66c6737a&hm=f7d164ea9ee205ac5dbb3db79cf15e9f545e12dca8268b7c4eb9fd322b872dd6&=&format=webp&quality=lossless&width=937&height=375)](https://scurottbot.xyz)
+<img src="https://media.discordapp.net/attachments/1134945536672288781/1275954767566475274/Adsz_tasarm_52.png?format=webp&quality=lossless&width=937&height=375" alt="MasterHead" />
+
 <h1 align="center">Selam, Ben Carrot! ^^ 🥕</h1>
 <h3 align="center">Kendini sürekli geliştirmeye adamış bir Türk genciyim.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
@@ -48,15 +49,11 @@
   </a> 
 </p>
 
-
-
 <h3 align="left">Destek ^^</h3>
 <p><a href="https://www.buymeacoffee.com/scurott"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scurott" /></a></p><br><br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carrotem&show_icons=true&locale=en&layout=compact" alt="carrotem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carrotem&show_icons=true&locale=en" alt="carrotem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carrotem&" alt="carrotem" /></p>
-
