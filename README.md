@@ -1,5 +1,3 @@
-<img src="https://media.discordapp.net/attachments/1134945536672288781/1275954767566475274/Adsz_tasarm_52.png?format=webp&quality=lossless&width=937&height=375" alt="MasterHead" />
-
 <h1 align="center">Selam, Ben Carrot! ^^ 🥕</h1>
 <h3 align="center">Kendini sürekli geliştirmeye adamış bir Türk genciyim.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
