@@ -48,10 +48,18 @@
 </p>
 
 <h3 align="left">Destek ^^</h3>
-<p><a href="https://www.buymeacoffee.com/scurott"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scurott" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/scurott">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scurott" />
+  </a>
+</p>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carrotem&show_icons=true&locale=en&layout=compact" alt="carrotem" /></p>
+<p>
+  <a href="https://www.patreon.com/ScurottBOT">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/patreon.svg" height="50" width="210" alt="Patreon" />
+  </a>
+</p>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carrotem&show_icons=true&locale=en" alt="carrotem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carrotem&" alt="carrotem" /></p>
